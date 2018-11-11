@@ -1,6 +1,3 @@
-# flip_text
-Drupal jQuery plugin to flip text around
-
 Flip Text jQuery Plugin for the Drupal Konami Code module
 =========
 
