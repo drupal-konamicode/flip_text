@@ -1,1 +1,16 @@
-
+{
+  "name":"drupal-konamicode/flip_text",
+  "type": "drupal-library",
+  "description": "Drupal Konami Code Flip Text jQuery plugin",
+  "keywords": ["drupal","konamicode","flip_text"],
+  "homepage": "https://github.com/drupal-konamicode/flip_text",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Bram Driesen",
+      "email": "bram.opensource@gmail.com",
+      "homepage": "https://github.com/drupal-konamicode",
+      "role": "Maintainer"
+    }
+  ]
+}
