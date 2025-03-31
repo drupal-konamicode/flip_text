@@ -59,6 +59,7 @@
       "\r": "\n"
     };
 
+    $.expr[":"] = $.expr.pseudos;
     $.expr[':'].nochildren = function (elem) {
       return !elem.innerHTML.match(/<\w/);
     };
